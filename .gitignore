@@ -3,3 +3,4 @@ myenv
 .DS_Store
 .env
 .vscode
+ca.pem
